@@ -1,6 +1,10 @@
 i2c-tools CHANGES
 -----------------
 
+GIT HEAD
+  Android Makefile
+  i2cdump: print bus capabilities on failure
+
 SVN HEAD
   i2c-stub-from-dump: Be more tolerant on input dump format
 
